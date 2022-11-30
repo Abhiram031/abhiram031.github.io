@@ -1,6 +1,6 @@
 const siteMeta = {
-	title: "Astro Theme Cactus",
-	description: "An opinionated starter theme for Astro",
+	title: "my-blog",
+	description: "Blog for documeting stuff",
 	lang: "en-GB",
 	ogLocale: "en_GB",
 	githubUrl: "https://github.com/Abhiram031/abhiram031.github.io",
